@@ -1,6 +1,6 @@
 # ReactInternetNotifier
 
-A lightweight React package for real-time internet connectivity notifications.
+[A lightweight React package for real-time internet connectivity notifications.](https://www.npmjs.com/package/react-internet-notifier)
 
 ## Installation
 
